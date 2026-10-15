@@ -1,0 +1,9 @@
+{
+    "type": "esp32-s3-lcd-2.8e",
+    "target": "esp32s3",
+    "builds": [
+        {
+            "name": "esp32-s3-lcd-2.8e"
+        }
+    ]
+}
